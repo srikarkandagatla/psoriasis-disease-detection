@@ -11,7 +11,7 @@ This repository contains a project focused on employing advanced deep learning t
 Our approach involved training and fine-tuning the models using a custom dataset curated from publicly available sources such as SKIN LESION, ISIC, and DEMANSET datasets.
 
 ## Optimizers:
-By applying optimizers including Adam, RMSprop, and Adagrad, we achieved classification accuracy exceeding 90%. This project not only advances dermatological diagnostics but also highlights the transformative potential of deep learning in healthcare applications.
+By applying optimizers including Adam, RMSprop, and Adagrad, we achieved classification accuracy exceeding 96%. This project not only advances dermatological diagnostics but also highlights the transformative potential of deep learning in healthcare applications.
 
 ## Acknowledgments:
 Special thanks to Dr. L Lakshimi for her invaluable guidance throughout this project, which significantly enhanced my expertise in applying AI to healthcare challenges.
