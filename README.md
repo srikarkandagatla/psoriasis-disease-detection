@@ -14,4 +14,4 @@ Our approach involved training and fine-tuning the models using a custom dataset
 By applying optimizers including Adam, RMSprop, and Adagrad, we achieved classification accuracy exceeding 96%. This project not only advances dermatological diagnostics but also highlights the transformative potential of deep learning in healthcare applications.
 
 ## Acknowledgments:
-Special thanks to Dr. L Lakshimi for her invaluable guidance throughout this project, which significantly enhanced my expertise in applying AI to healthcare challenges.
+Special thanks to Dr. L Lakshimi Mam for her invaluable guidance throughout this project, which significantly enhanced my expertise in applying AI to healthcare challenges.
